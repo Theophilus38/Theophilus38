@@ -1,4 +1,4 @@
-# Hi there, I'm Theophilus38! 👋
+# Hi there, I'm Theophilus! 👋
 
 Welcome to my GitHub profile! I'm passionate about coding and always eager to learn new technologies. Here, you'll find some of my projects and contributions.
 
